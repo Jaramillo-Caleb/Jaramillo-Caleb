@@ -13,3 +13,6 @@
 
 ## Contacto / Contact
 - Email: jaramillocaleb3@gmail.com
+
+## Mi CV
+[Descarga mi Curriculum aquí](./CV_Caleb_Jaramillo.pdf) 
