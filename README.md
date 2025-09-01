@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sobre mí / About me
 
-<!--
-**Jaramillo-Caleb/Jaramillo-Caleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudiante de Ingeniería Informática / Computer Science Student
 
-Here are some ideas to get you started:
+## Tecnologías / Technologies
+- Python  
+- Java  
+- C#  
+- JavaScript  
+- HTML, CSS  
+- PostgreSQL  
+- GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto / Contact
+- Email: jaramillocaleb3@gmail.com
