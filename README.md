@@ -14,5 +14,5 @@
 ## Contacto / Contact
 - Email: jaramillocaleb3@gmail.com
 
-## Mi CV
-[Descarga mi Curriculum aquí](./CV_Caleb_Jaramillo.pdf) 
+## Mi CV / My CV
+Descarga mi CV [aquí](https://github.com/user-attachments/files/22081779/CV.pdf) / Download my CV [here](https://github.com/user-attachments/files/22081779/CV.pdf)
