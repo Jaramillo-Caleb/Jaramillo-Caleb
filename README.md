@@ -8,7 +8,11 @@
 - C#  
 - JavaScript  
 - HTML, CSS  
-- PostgreSQL  
+- PostgreSQL
+- SQLIte
+- .NET
+- Docker
+- Flutter
 - GitHub  
 
 ## Contacto / Contact
