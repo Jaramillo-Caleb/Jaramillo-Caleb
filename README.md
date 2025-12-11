@@ -4,19 +4,25 @@
 
 ## Tecnologías / Technologies
 - Python  
+- Flask
 - Java  
 - C#  
 - JavaScript  
-- HTML, CSS  
+- HTML
+- CSS  
 - PostgreSQL
 - SQLIte
 - .NET
 - Docker
 - Flutter
-- GitHub  
+- Dart
+- GitHub
+- Postman
+- API RESTful
 
 ## Contacto / Contact
 - Email: jaramillocaleb3@gmail.com
 
 ## Mi CV / My CV
-Descarga mi CV [aquí](https://github.com/user-attachments/files/22353367/CV.Espanol.pdf) / Download my CV [here](https://github.com/user-attachments/files/22353366/CV.English.pdf)
+Descarga mi CV [aquí](https://github.com/user-attachments/files/24104935/Borrador.CV.espanol.pdf) / Download my CV [here](https://github.com/user-attachments/files/24104945/Borrador.CV.ingles.pdf)
+
