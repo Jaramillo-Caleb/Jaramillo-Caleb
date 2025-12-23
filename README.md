@@ -4,21 +4,11 @@
 
 ## Tecnologías / Technologies
 - Python  
-- Flask
 - Java  
 - C#  
-- JavaScript  
-- HTML
-- CSS  
-- PostgreSQL
-- SQLIte
-- .NET
 - Docker
-- Flutter
-- Dart
 - GitHub
 - Postman
-- API RESTful
 
 ## Contacto / Contact
 - Email: jaramillocaleb3@gmail.com
