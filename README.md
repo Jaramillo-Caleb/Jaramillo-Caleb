@@ -5,7 +5,6 @@
 ## Tecnologías / Technologies
 - Python  
 - Java  
-- C#  
 - Docker
 - GitHub
 - Postman
