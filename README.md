@@ -8,6 +8,8 @@
 - Docker
 - GitHub
 - Postman
+- Clean Architecture
+- APIs
 
 ## Contacto / Contact
 - Email: jaramillocaleb3@gmail.com
