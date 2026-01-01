@@ -3,8 +3,7 @@
 - Estudiante de Ingeniería Informática / Computer Science Student
 
 ## Tecnologías / Technologies
-- Python  
-- Java  
+- Python   
 - Docker
 - GitHub
 - Postman
