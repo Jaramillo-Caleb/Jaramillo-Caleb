@@ -3,10 +3,10 @@
 - Estudiante de Ingeniería Informática / Computer Science Student
 
 ## Tecnologías / Technologies
-- Python   
+- Microservicios  
 - Docker
 - GitHub
-- Postman
+- .NET
 - Clean Architecture
 - APIs
 
