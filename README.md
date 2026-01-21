@@ -5,7 +5,7 @@
 ## Tecnologías / Technologies
 - Microservicios  
 - Docker
-- GitHub
+- Git
 - .NET
 - Clean Architecture
 - APIs
